@@ -1,9 +1,10 @@
 import React from "react";
+import Dashboard from "./screens/Dashboard";
 
 const App = (props) => {
 
   return(
-    <h1>or pathak gandu</h1>
+    <Dashboard />
   )
 };
 
